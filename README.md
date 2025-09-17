@@ -55,4 +55,13 @@ Uruchom skrypt analityczny:
 	python stream_totals.py
 
 Wyniki będą pojawiać się w konsoli w batchach (co kilka sekund), np.:
-<pre> ``` +----------+-----------+-------------+ |product_id|order_count|total_revenue| +----------+-----------+-------------+ |1004 |8 |1116.24 | |1005 |15 |1071.90 | |1001 |13 |488.15 | |1002 |5 |639.30 | |1003 |8 |218.16 | +----------+-----------+-------------+ ``` </pre>
+
+## Batch: 1
+
+| product_id | order_count | total_revenue |
+|------------|-------------|---------------|
+| 1004       | 8           | 1116.24       |
+| 1005       | 15          | 1071.90       |
+| 1001       | 13          | 488.15        |
+| 1002       | 5           | 639.30        |
+| 1003       | 8           | 218.16        |
