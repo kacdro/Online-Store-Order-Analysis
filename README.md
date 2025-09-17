@@ -55,7 +55,6 @@ Uruchom skrypt analityczny:
 	python stream_totals.py
 
 Wyniki będą pojawiać się w konsoli w batchach (co kilka sekund), np.:
-
 -------------------------------------------
 Batch: 1
 -------------------------------------------
